@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Startup Clock Extension",
+  "version": "1.0",
+  "description": "A Chrome extension that displays a live clock and date on the startup page.",
+  "author": "Akshay Gore",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [],
+  "icons": {
+    "16": "logo6.png",
+    "48": "logo6.png",
+    "128": "logo6.png"
+  }
+}
